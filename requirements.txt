@@ -1,0 +1,9 @@
+bs4
+langchain
+pypdf
+tqdm
+openai
+tiktoken
+lxml
+chromadb
+google-search-results
